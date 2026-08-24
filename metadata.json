@@ -1,0 +1,8 @@
+{
+  "name": "Kepolisian Kota Indah Indonesia",
+  "description": "Website resmi Kepolisian Kota Indah Indonesia untuk server FiveM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

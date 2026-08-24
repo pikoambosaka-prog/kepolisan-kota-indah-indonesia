@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-obsidian: #080B10;
+  --color-deep-navy: #0D1219;
+  --color-graphite: #151C25;
+  --color-champagne-gold: #C9A45C;
+  --color-ivory: #E8E3D8;
+  --color-muted-gray: #747C87;
+}
+
+body {
+  @apply bg-obsidian text-ivory font-sans;
+}
+
